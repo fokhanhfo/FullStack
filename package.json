@@ -1,0 +1,7 @@
+{
+  "name": "main-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "update-subtrees": "bash ./scripts/update-subtrees.sh"
+  }
+}
